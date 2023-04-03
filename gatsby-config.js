@@ -12,9 +12,7 @@ module.exports = {
     title: `Hey, I am Rinkesh 👋`,
     author: {
       name: `Rinks`,
-      summary: `🙋‍♂️ I am Rinkesh Gorasia, a serial entrepreneur who loves building and breaking interesting stuff.
-      
-      I started my entrepreneurial journey in my teens. My first product was ‘Lost Beat’, a musical networking platform aimed at promoting raw and original talent through community relations. 
+      summary: `🙋‍♂️ I am Rinkesh Gorasia, a serial entrepreneur who loves building and breaking interesting stuff.<br><br>I started my entrepreneurial journey in my teens. My first product was ‘Lost Beat’, a musical networking platform aimed at promoting raw and original talent through community relations. 
       
       More of an experimental product, Lost Beat helped me to identify the importance of product management. `,
     },
