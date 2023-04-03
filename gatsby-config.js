@@ -11,8 +11,8 @@ module.exports = {
   siteMetadata: {
     title: `Hey, I am Rinkesh 👋`,
     author: {
-      name: `Rinkesh Gorasia`,
-      summary: `who lives and works in Banglore building useful things.`,
+      name: ``,
+      summary: `🙋‍♂️ I am Rinkesh Gorasia, a serial entrepreneur who loves building and breaking interesting stuff`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
