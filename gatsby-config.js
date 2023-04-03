@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Rinkesh Gorasia's Blog`,
+    title: `Hey, I am Rinkesh 👋`,
     author: {
       name: `Rinkesh Gorasia`,
       summary: `who lives and works in Banglore building useful things.`,
